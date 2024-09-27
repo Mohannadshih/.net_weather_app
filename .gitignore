@@ -174,3 +174,4 @@ _pkginfo.txt
 # files ending in .cache can be ignored
 *.cache
 *.csproj.FileListAbsolute.txt
+*.assets.cache
